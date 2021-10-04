@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alxmrer@gmail.com
+	name = Alex Meurer
